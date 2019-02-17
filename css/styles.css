@@ -69,6 +69,10 @@ section {
   text-align: center;
   text-transform: uppercase;
 }
+.filter-options label {
+  width: 0;
+  overflow: hidden;
+}
 /* ====================== Navigation ====================== */
 nav {
   width: 100%;
